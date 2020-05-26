@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GPS Location</string>
+    <string name="map_api">AIzaSyAIwUf0OdrWRU1yyipi4uAfVP9qUx1X5FM</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
